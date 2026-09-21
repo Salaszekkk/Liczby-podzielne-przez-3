@@ -1,0 +1,1 @@
+# Liczby-podzielne-przez-3
